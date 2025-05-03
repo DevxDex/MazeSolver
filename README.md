@@ -1,5 +1,7 @@
 #Maze Solver (BFS and DFS)
 =========================
+Checkout our projects portfolio:
+https://sites.google.com/effat.edu.sa/maze-solver/home?authuser=1
 
 This project implements a maze-solving program using two classic graph traversal algorithms:
 - Breadth-First Search (BFS)
